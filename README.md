@@ -17,11 +17,13 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 # Repository Contents
 
-**Codebook.md**
+**README.md** - what you are currently viewing
 
-**run_analysis.R**
+**Codebook.md** - an overview of the data and R script, run_analysis.R
 
-**tidy_data.txt**
+**run_analysis.R** - R script that is used to create the tidy_data.txt file as required by the course ouline and objective
+
+**tidy_data.txt** - output of the R script that shoud be reproducable with the R script, run_analysis.R, as required by the course outline and objective
 
 
 
