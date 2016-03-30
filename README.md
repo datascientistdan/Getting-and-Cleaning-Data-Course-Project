@@ -25,6 +25,8 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 **tidy_data.txt** - output of the R script that shoud be reproducable with the R script, run_analysis.R, as required by the course outline and objective
 
+** features.txt** - list of all labels that were included in the original dataset
+
 
 
 
